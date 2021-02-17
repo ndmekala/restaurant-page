@@ -14,3 +14,12 @@ img {
 #content {
     margin: 50px;
 }
+
+#tabholder {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.tab {
+    margin: 1vw;
+}
